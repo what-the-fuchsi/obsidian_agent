@@ -1,0 +1,12 @@
+{
+  "name": "markdown-ai-generator",
+  "version": "0.1.0",
+  "description": "Obsidian plugin to generate markdown using a local AI server.",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+} 

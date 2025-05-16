@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Obsidian plugin build
+obsidian_plugin/node_modules/
+obsidian_plugin/main.js
+obsidian_plugin/package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/
+
+# Python packaging
+*.egg-info/
+*.egg-info 

@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: obsidian_agent
+Version: 0.1.0
+Summary: AI-powered markdown generator and server for Obsidian workflows
+Author: Your Name
+License-File: LICENSE
+Requires-Dist: openai
+Requires-Dist: pyyaml
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

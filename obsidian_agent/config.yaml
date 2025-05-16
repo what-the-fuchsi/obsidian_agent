@@ -1,0 +1,4 @@
+# Configuration for Obsidian Agent
+max_tokens: 500  # Maximum tokens for OpenAI completions
+initial_prompt: "You are an assistant that generates well-structured markdown pages for Obsidian."  # System prompt for the assistant
+secret-config-path: "%LOCALAPPDATA%/WebApps/ObsidianAgent/secret-config.yaml"  # Path to the secret config file
